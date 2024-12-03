@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Change in repo 1
+=======
+Change in repo 2
+>>>>>>> b37931f (Add conflict from repo 2)
